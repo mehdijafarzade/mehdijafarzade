@@ -1,5 +1,6 @@
 ### About Me 👋
 <img aline="center" src="https://github.com/mehdijafarzade/mehdijafarzade/assets/133198602/1303a362-000e-4d57-9905-f92debf187b5">
+<h2>سلام دوست من ✌️✌️</h2>
 
 <!--
 **mehdijafarzade/mehdijafarzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
