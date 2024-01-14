@@ -8,7 +8,7 @@
 
 <h4>راه های ارتباط با من:📳</h4>
 
-📬telegram: @mehdijafarzade12
+📬telegram: @mehdijafarzade
 
 <!--
 **mehdijafarzade/mehdijafarzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
